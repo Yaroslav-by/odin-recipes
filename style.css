@@ -1,0 +1,46 @@
+#title,
+#list,
+.subtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title, 
+.subtitle { 
+    text-align: center;
+    color: white;
+}
+
+#title {
+    background-color: rgb(172, 154, 130); 
+    font-size: 48px;
+}
+
+#list,
+.text {
+    font-size: 24px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+}
+
+#list {
+    list-style-type: circle;
+}
+
+.subtitle {
+    font-size: 36px;
+    background-color: rgb(103, 205, 171);
+}
+
+.dish.image {
+   height: 400px;
+   width: 500px;
+   display: block;
+   margin-left: auto;
+   margin-right:auto;
+}
+
+.italic {
+    font-style: italic;
+}
+
